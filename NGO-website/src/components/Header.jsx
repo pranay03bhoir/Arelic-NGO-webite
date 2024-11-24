@@ -1,9 +1,13 @@
-const Header = ()=>{
-    return(
-        <div>
+import NavBar from "./NavBar.jsx";
 
-        </div>
-    )
-}
+const Header = () => {
+  return (
+    <>
+      <div className={`mt-10 shadow-lg`}>
+        <NavBar />
+      </div>
+    </>
+  );
+};
 
 export default Header;
