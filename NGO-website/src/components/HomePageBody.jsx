@@ -2,7 +2,7 @@ import Images from "./Images.jsx";
 import { useState } from "react";
 import Mission from "./Mission.jsx";
 import Vision from "./Vision.jsx";
-
+import { motion } from "motion/react";
 const HomePageBody = () => {
   const [readMore, setReadMore] = useState(false);
   const commonClasses =
@@ -48,14 +48,16 @@ const HomePageBody = () => {
         </p>
       </div>
       <div className={`w-full flex justify-center mt-3`}>
-        <button
-          className={`p-2 rounded-md border-0 w-44 text-lg outline-0 bg-gradient-to-r from-green-100 to-green-300 mb-10 duration-300`}
+        <motion.button
+          whileHover={{ scale: 1.1 }}
+          whileTap={{ scale: 0.95 }}
+          className={`p-2 rounded-md border-0 w-44 text-lg outline-0 bg-gradient-to-r from-green-100 to-green-300 mb-10`}
           onClick={() =>
             !readMore ? handleReadMore(true) : handleReadMore(false)
           }
         >
           {!readMore ? "Read More" : "Read Less"}
-        </button>
+        </motion.button>
       </div>
       <Mission />
       <Vision />
