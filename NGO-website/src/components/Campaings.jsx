@@ -46,7 +46,7 @@ const Campaings = () => {
         </motion.button>
       </div>
       <div
-        className={`mt-5 w-full gap-10 px-10 mb-5 md:grid md:grid-cols-2 lg:flex lg:justify-center md:gap-20 duration-300`}
+        className={`mt-5 w-full flex flex-col gap-10 px-10 mb-5 md:grid md:grid-cols-2 lg:flex lg:justify-center md:gap-20 duration-300`}
       >
         {slicedData.map((data) => (
           <Cards key={data.id} {...data} />
