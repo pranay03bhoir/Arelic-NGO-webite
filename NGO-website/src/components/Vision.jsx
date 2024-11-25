@@ -9,21 +9,23 @@ const Vision = () => {
           OUR VISION
         </h1>
       </div>
-      <div className={`grid grid-cols-2`}>
+      <div className={`grid md:grid-cols-2`}>
         <img
           src={poor}
           alt={``}
-          className={`w-[50%] mt-14 rounded-lg translate-x-32`}
+          className={`md:w-[50%]  mt-14 rounded-lg md:translate-x-32 w-full items-center`}
         />
-        <h1 className={`text-4xl mt-20 block`}>
+        <h1 className={`md:text-4xl text-2xl md:mt-20 mt-12 block text-center`}>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          <p className={`text-2xl font-light mt-20 px-[2rem]`}>
+          <p
+            className={`md:text-2xl text-xl font-light md:mt-20 mt-10 px-[2rem]`}
+          >
             fastidii accumsan solet dolor vel menandri tortor platonem
             ullamcorper epicurei tota consequat ei efficiantur aliquid ludus
             reprehendunt aliquet delicata pellentesque rhoncus utinam egestas
             assueverit vivendo auctor aliquid novum dicat eripuit
           </p>
-          <ol className={`text-xl text-center mt-5`}>
+          <ol className={`md:text-xl text-lg md:text-center mt-5`}>
             <li>
               <i class="fa-regular fa-circle-dot text-amber-400"></i> Lorem
               ipsum dolor sit amet, consetetur
