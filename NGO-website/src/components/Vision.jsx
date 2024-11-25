@@ -13,7 +13,7 @@ const Vision = () => {
         <img
           src={poor}
           alt={``}
-          className={`md:w-[50%]  mt-14 rounded-lg md:translate-x-32 w-full items-center`}
+          className={`md:w-[50%]  mt-14 rounded-lg md:translate-x-32 w-full items-center -z-10`}
         />
         <h1 className={`md:text-4xl text-2xl md:mt-20 mt-12 block text-center`}>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

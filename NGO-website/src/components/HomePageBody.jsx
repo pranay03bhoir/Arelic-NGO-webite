@@ -3,6 +3,7 @@ import { useState } from "react";
 import Mission from "./Mission.jsx";
 import Vision from "./Vision.jsx";
 import { motion } from "motion/react";
+import Campaings from "./Campaings.jsx";
 const HomePageBody = () => {
   const [readMore, setReadMore] = useState(false);
   const commonClasses =
@@ -29,7 +30,7 @@ const HomePageBody = () => {
         </p>
         <br></br>
         <p
-          className={`-mt-5 font-light ${!readMore ? `hidden` : `block`} duration-300 ${commonClasses} `}
+          className={`mt-0 font-light  ${!readMore ? `hidden` : `block`}  ${commonClasses} `}
         >
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
           nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -61,6 +62,7 @@ const HomePageBody = () => {
       </div>
       <Mission />
       <Vision />
+      <Campaings />
     </>
   );
 };

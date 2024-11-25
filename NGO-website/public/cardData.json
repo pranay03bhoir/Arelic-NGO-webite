@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "image": "../src/assets/homePageImg2.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": " litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "20",
+    "current": "$10,000",
+    "goal": "$100,000",
+    "button1": "75+ donated",
+    "button2":"Donate now"
+
+  },
+  {
+    "id": 2,
+    "image": "../src/assets/homePageImg3.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "40",
+    "current": "$40,000",
+    "goal": "$100,000",
+    "button1": "150+ donated",
+    "button2":"Donate now"
+
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/homePageImg6.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "70",
+    "current": "$70,000",
+    "goal": "$100,000",
+    "button1": "220+ donated",
+    "button2":"Donate now"
+
+  },
+ {
+    "id": 4,
+    "image": "../src/assets/homePageImg4.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "30",
+    "current": "$30,000",
+    "goal": "$100,000",
+    "button1": "66+ donated",
+    "button2":"Donate now"
+
+  },
+ {
+    "id": 5,
+    "image": "../src/assets/homePageImg1.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "90",
+    "current": "$90,000",
+    "goal": "$100,000",
+    "button1": "400+ donated",
+    "button2":"Donate now"
+
+  },
+{
+    "id": 6,
+    "image": "../src/assets/homePageImg3.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "10",
+    "current": "$10,000",
+    "goal": "$100,000",
+    "button1": "85+ donated",
+    "button2":"Donate now"
+
+  },
+{
+    "id": 7,
+    "image": "../src/assets/homePageImg5.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "30",
+    "current": "$30,000",
+    "goal": "$100,000",
+    "button1": "66+ donated",
+    "button2":"Donate now"
+
+  },
+ {
+    "id": 8,
+    "image": "../src/assets/homePageImg6.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "90",
+    "current": "$90,000",
+    "goal": "$100,000",
+    "button1": "400+ donated",
+    "button2":"Donate now"
+
+  },
+{
+    "id": 9,
+    "image": "../src/assets/homePageImg7.jpg",
+    "heading": "Lorem ipsum dolor sit amet, consetetur",
+    "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
+    "pvalue": "10",
+    "current": "$10,000",
+    "goal": "$100,000",
+    "button1": "85+ donated",
+    "button2":"Donate now"
+
+  }
+
+]
