@@ -16,7 +16,7 @@ const Campaings = () => {
   const slicedData = data.slice(currentIndex.start, currentIndex.end);
   console.log(slicedData);
   function handlePrevCard() {
-    setCurrentIndex(constIs);
+    setCurrentIndex({ start: 3, end: 6 });
   }
   return (
     <>
