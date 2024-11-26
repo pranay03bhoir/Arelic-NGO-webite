@@ -1,7 +1,7 @@
-import image1 from "../assets/homePageImg1.jpg";
-import image2 from "../assets/homePageImg2.jpg";
-import image3 from "../assets/homePageImg3.jpg";
-import image4 from "../assets/homePageImg4.jpg";
+import image1 from "../../public/images/homePageImg1.jpg";
+import image2 from "../../public/images/homePageImg2.jpg";
+import image3 from "../../public/images/homePageImg3.jpg";
+import image4 from "../../public/images/homePageImg4.jpg";
 const Images = () => {
   return (
     <>

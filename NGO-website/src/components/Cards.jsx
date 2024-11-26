@@ -1,4 +1,4 @@
-import image from "../assets/homePageImg3.jpg";
+import image from "../../public/images/homePageImg3.jpg";
 import { useEffect, useState } from "react";
 
 const Cards = ({

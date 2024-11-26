@@ -1,4 +1,3 @@
-import image from "../assets/homePageImg3.jpg";
 import { motion } from "motion/react";
 import Cards from "./Cards.jsx";
 import { useEffect, useState } from "react";
