@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "../src/assets/homePageImg2.JPG",
+    "image": "./images/homePageImg2.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": " litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "20",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "image": "../src/assets/homePageImg3.jpg",
+    "image": "./images/homePageImg3.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "40",
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "image": "../src/assets/homePageImg6.jpg",
+    "image": "./images/homePageImg6.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "70",
@@ -37,7 +37,7 @@
   },
  {
     "id": 4,
-    "image": "../src/assets/homePageImg4.jpg",
+    "image": "./images/homePageImg4.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "30",
@@ -49,7 +49,7 @@
   },
  {
     "id": 5,
-    "image": "../src/assets/homePageImg1.jpg",
+    "image": "./images/homePageImg1.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "90",
@@ -61,7 +61,7 @@
   },
 {
     "id": 6,
-    "image": "../src/assets/homePageImg3.jpg",
+    "image": "./images/homePageImg3.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "10",
@@ -73,7 +73,7 @@
   },
 {
     "id": 7,
-    "image": "../src/assets/homePageImg5.jpg",
+    "image": "./images/homePageImg5.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "50",
@@ -85,7 +85,7 @@
   },
  {
     "id": 8,
-    "image": "../src/assets/homePageImg6.jpg",
+    "image": "./images/homePageImg6.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "80",
@@ -97,7 +97,7 @@
   },
 {
     "id": 9,
-    "image": "../src/assets/homePageImg7.jpg",
+    "image": "./images/homePageImg7.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
     "pvalue": "60",
