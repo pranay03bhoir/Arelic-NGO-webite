@@ -76,8 +76,8 @@
     "image": "../src/assets/homePageImg5.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
-    "pvalue": "30",
-    "current": "$30,000",
+    "pvalue": "50",
+    "current": "$50,000",
     "goal": "$100,000",
     "button1": "66+ donated",
     "button2":"Donate now"
@@ -88,8 +88,8 @@
     "image": "../src/assets/homePageImg6.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
-    "pvalue": "90",
-    "current": "$90,000",
+    "pvalue": "80",
+    "current": "$80,000",
     "goal": "$100,000",
     "button1": "400+ donated",
     "button2":"Donate now"
@@ -100,8 +100,8 @@
     "image": "../src/assets/homePageImg7.jpg",
     "heading": "Lorem ipsum dolor sit amet, consetetur",
     "subheading": "litora causae consectetuer molestiae dapibus solet justo placerat",
-    "pvalue": "10",
-    "current": "$10,000",
+    "pvalue": "60",
+    "current": "$60,000",
     "goal": "$100,000",
     "button1": "85+ donated",
     "button2":"Donate now"
